@@ -2,6 +2,8 @@
 
 This is a basic implementation of the Atari Pong game, but it's missing a few things intentionally and they're left as further exploration for the reader.
 
+<img width="300" alt="image" src="https://user-images.githubusercontent.com/2433219/94984423-03b57400-0509-11eb-91b0-974280cec0a2.png">
+
 ## Further Exploration
 
 - Score
@@ -24,7 +26,12 @@ This is a basic implementation of the Atari Pong game, but it's missing a few th
 - [Breakout](https://gist.github.com/straker/98a2aed6a7686d26c04810f08bfaf66b)
 - [Tetris](https://gist.github.com/straker/3c98304f8a6a9174efd8292800891ea1)
 - [Bomberman](https://gist.github.com/straker/769fb461e066147ea16ac2cb9463beae)
+- [Frogger](https://gist.github.com/straker/82a4368849cbd441b05bd6a044f2b2d3)
 
 ## Support
 
 Basic HTML Games are made possible by users like you. When you become a [Patron](https://www.patreon.com/straker), you get access to behind the scenes development logs, the ability to vote on which games I work on next, and early access to the next Basic HTML Game.
+
+### Top Patrons
+
+- Innkeeper Games
