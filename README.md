@@ -28,6 +28,7 @@ This is a basic implementation of the Atari Pong game, but it's missing a few th
 - [Bomberman](https://gist.github.com/straker/769fb461e066147ea16ac2cb9463beae)
 - [Frogger](https://gist.github.com/straker/82a4368849cbd441b05bd6a044f2b2d3)
 - [Missile Command](https://gist.github.com/straker/afc4e2a30b6df772a5f9f6ef01751d41)
+- [Sokoban](https://gist.github.com/straker/2fddb507d4bb6bec54ea2fdb022d020c)
 
 ## Support
 
