@@ -2,7 +2,7 @@
 
 This is a basic implementation of the Atari Pong game, but it's missing a few things intentionally and they're left as further exploration for the reader.
 
-<img width="300" alt="image" src="https://user-images.githubusercontent.com/2433219/94984423-03b57400-0509-11eb-91b0-974280cec0a2.png">
+<img width="300" height="233" alt="" src="https://user-images.githubusercontent.com/2433219/94984423-03b57400-0509-11eb-91b0-974280cec0a2.png">
 
 ## Further Exploration
 
@@ -30,6 +30,7 @@ This is a basic implementation of the Atari Pong game, but it's missing a few th
 - [Missile Command](https://gist.github.com/straker/afc4e2a30b6df772a5f9f6ef01751d41)
 - [Sokoban](https://gist.github.com/straker/2fddb507d4bb6bec54ea2fdb022d020c)
 - [Doodle Jump](https://gist.github.com/straker/b96a4a68bd6d79cf75a833d98a2b654f)
+- [Puzzle Bobble](https://gist.github.com/straker/afc5bedc7f4b4bc65ba8b05c435f6d32)
 
 ## Support
 
